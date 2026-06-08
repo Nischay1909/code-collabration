@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Code Collaboration Editor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>⚡ Code Collaboration Editor</h1>
+
+<div class="editor">
+  <textarea id="html" placeholder="Write HTML..."></textarea>
+  <textarea id="css" placeholder="Write CSS..."></textarea>
+  <textarea id="js" placeholder="Write JavaScript..."></textarea>
+</div>
+
+<div class="buttons">
+  <button onclick="runCode()">▶ Run</button>
+  <button onclick="clearCode()">🗑 Clear</button>
+  <button onclick="saveCode()">💾 Save</button>
+  <button onclick="downloadCode()">⬇ Download</button>
+  <button onclick="shareCode()">🔗 Share</button>
+</div>
+
+<iframe id="output"></iframe>
+
+<script src="script.js"></script>
+</body>
+</html>
