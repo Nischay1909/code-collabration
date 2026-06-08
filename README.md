@@ -11,19 +11,10 @@ A browser-based code editor that allows users to write HTML, CSS, and JavaScript
 
 # Live Demo
 
-https://yourusername.github.io/code-collaboration/
+https://Nischay1909.github.io/code-collaboration/
 
 # Tech Stack
 
 - HTML
 - CSS
 - JavaScript
-
-
-#Screenshot
-
-![Project Screenshot](screenshot.png)
-
-
-
-## 📂 Project Structure
