@@ -9,9 +9,6 @@ A browser-based code editor that allows users to write HTML, CSS, and JavaScript
 - Download code as HTML file
 - Share code via URL
 
-# Live Demo
-
-https://Nischay1909.github.io/code-collaboration/
 
 # Tech Stack
 
