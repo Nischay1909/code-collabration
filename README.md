@@ -7,11 +7,10 @@ A browser-based code editor that allows users to write HTML, CSS, and JavaScript
 - Real-time preview
 - Save code using localStorage
 - Download code as HTML file
-- Share code via URL
-
-
+- 
 # Tech Stack
 
 - HTML
 - CSS
 - JavaScript
+Live Url:https://xyz-projec.netlify.app/
