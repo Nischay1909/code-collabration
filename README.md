@@ -13,5 +13,3 @@ A browser-based code editor that allows users to write HTML, CSS, and JavaScript
 - HTML
 - CSS
 - JavaScript
-- 
-  Live Url:https://xyz-projec.netlify.app/
